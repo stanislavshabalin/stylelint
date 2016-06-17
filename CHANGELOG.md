@@ -1,3 +1,7 @@
+# Head
+
+- Added: `ignoreFunctions: []` option for `function-name-case`.
+
 # 6.6.0
 
 - Deprecated: `number-zero-length-no-unit`. Use `length-zero-no-unit` instead.
